@@ -1,7 +1,7 @@
 Wolfram Alpha Fixes
 ===================
 
-Wolfram Alpha recently added a paid membership option, and added a bunch of cool new features for people who sign up. However, they also made a few previously free options accessible only to paying members - most annoyingly, the ability to copy plaintext representations of WA output. 
+Wolfram Alpha recently added a paid membership option, and added a bunch of cool new features for people who sign up. However, they also made a few previously free options accessible only to paying members - most annoyingly, the ability to copy plaintext representations of WA output. EDIT: Copyable plaintext was recently made a feature for logged-in free accounts. 
 
 This userscript removes that restriction. Over time I'll add any other small fixes to make Wolfram Alpha more convenient.
 
