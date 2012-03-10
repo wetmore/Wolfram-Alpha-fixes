@@ -1,6 +1,6 @@
 // ==UserScript
 // @name        Wolfram Alpha fix
-// @namespace   fuckwolfram
+// @namespace   wolframfixes
 // @description copy plaintext representations from WA
 // @include http://www.wolframalpha.tld/*
 // @include http://wolframalpha.tld/*
